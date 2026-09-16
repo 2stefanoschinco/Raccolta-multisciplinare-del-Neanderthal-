@@ -1,7 +1,55 @@
 # Raccolta-multisciplinare-del-Neanderthal-
 In questa raccolta di esamina tutto ciò che genera incoerenza nel Neanderthal tra realtà e conosciuto, ogni opera è multidisciplinare e il loro insieme potrebbe essere definito multidimensionale 
 
+![Neanderthal](IMG-20260911-WA0001.jpg)
+
+## elenco dei progetti 
+
+(https://doi.org/10.5281/zenodo.22645188)
+[IPI] Indice di Prosperità Integrato 
+
+(https://doi.org/10.17605/OSF.IO/8YVB6)
+ [statistiche e scheda applicativa IPI]
+
+(https://doi.org/10.17605/OSF.IO/DA8BP)
+ [cerchio del fuoco 🔥],immagini e intro 
+
+(https://doi.org/10.17605/OSF.IO/XCEDS)
+RR e DL, Paracelso:[Stella o Buco Nero]
+
+(https://doi.org/10.5281/zenodo.22694824)
+[Tetralogia del depende], 4 punti di vista stesso logos
+
+[Il viaggio] (https://doi.org/10.17605/OSF.IO/9M5EG)
+
+ [Abbaglio nella nebbia] (https://doi.org/10.17605/OSF.IO/4UFDN) 
+
+[I tre piani inclinati] (https://doi.org/10.17605/OSF.IO/FZ4T8)
+
+[Nati da Lucy e sfamati dall'acqua] (https://doi.org/10.17605/OSF.IO/SXKQ2)
+
+- Misurare e conteggiare. [Non farsi ingannare dagli economisti](https://doi.org/10.1093/oxfordjournals.cje.a014012).
+
+- [socioeconomia (PDF)](economia-del-neanderthal-polemos.pdf)
+- [genealogia filosofica ed etimologia](https://github.com/Cerchio-del-fuoco-Neanderthal)
+- [Zenodo — Cerchio del fuoco](https://zenodo.org/communities/cechio_del_fuoco/records)
+- [ORCID](https://orcid.org/0009-0006-1081-6355)
+- [OSF](https://osf.io/qh4px/)
+- Percorsi e origini. Le ombre della caverna di Platone spaventano meno della luce e del canto degli uccellini.
+
+- [Polemos genealogia (PDF)](cerchio-del-fuoco-genealogia-polemos-1.pdf)
+- [logiche dell' economia](https://github.com/Cerchio-del-fuoco-economia-Paracelso)
+- [Zenodo — Cerchio del fuoco](https://zenodo.org/communities/cechio_del_fuoco/records)
+- [ORCID](https://orcid.org/0009-0006-1081-6355)
+- [OSF](https://osf.io/qh4px/)
+
+Per noi occidentali è un salto logico improbabile capire «io sono perché noi siamo»; per gli Ubuntu lo sarebbe comprendere completamente la logica dei tassi d'inflazione e di interessi. Due verità che devono coesistere.
+
+**esempio breve di multisciplinarietà**
+
 *Come il cervello sociale antico continua a influenzare, sotto la soglia della cognizione, concetti che il linguaggio moderno tratta come economici*
+
+![realtà](IMG-20260913-WA6807.jpg) 
 
 ## Ricchezza e Povertà — la radice relazionale
 
